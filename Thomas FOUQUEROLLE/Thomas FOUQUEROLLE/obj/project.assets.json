@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fouqu\\source\\repos\\QualityDevIUT\\Thomas FOUQUEROLLE\\Thomas FOUQUEROLLE\\Thomas FOUQUEROLLE.csproj",
-      "projectName": "Thomas FOUQUEROLLE",
-      "projectPath": "C:\\Users\\fouqu\\source\\repos\\QualityDevIUT\\Thomas FOUQUEROLLE\\Thomas FOUQUEROLLE\\Thomas FOUQUEROLLE.csproj",
+      "projectUniqueName": "C:\\Users\\fouqu\\source\\repos\\QualityDevIUT\\Thomas FOUQUEROLLE\\Thomas FOUQUEROLLE\\DataLibrary.csproj",
+      "projectName": "DataLibrary",
+      "projectPath": "C:\\Users\\fouqu\\source\\repos\\QualityDevIUT\\Thomas FOUQUEROLLE\\Thomas FOUQUEROLLE\\DataLibrary.csproj",
       "packagesPath": "C:\\Users\\fouqu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fouqu\\source\\repos\\QualityDevIUT\\Thomas FOUQUEROLLE\\Thomas FOUQUEROLLE\\obj\\",
       "projectStyle": "PackageReference",
